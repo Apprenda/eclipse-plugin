@@ -9,7 +9,7 @@ This repository hosts the Eclipse Plug-In for interacting with the Apprenda plat
 ## Installation
 The plug-in can be installed directly from Eclipse by adding the [Eclipse Update Site](https://raw.githubusercontent.com/Apprenda/eclipse-plugin/releases/updates/current) and stepping through the wizard to finish installing the plugin. 
 
-![Install Wizard](http://docs.apprenda.com/images/eclipse/eclipse-install3.jpg)
+![Install Wizard](https://cloud.githubusercontent.com/assets/720824/7590548/24c9aafa-f897-11e4-8c59-a30d4daad162.PNG)
 
 ## Official Documentation
 More information can be found at the Apprenda Documentation site: http://docs.apprenda.com/6-0/tools/eclipse

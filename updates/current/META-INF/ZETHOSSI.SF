@@ -1,0 +1,43 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: SHCGxzzEaMI6zkXjfCtYUEmyHUA=
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: ASBBD2x5s9wCWmup0nEoz+7BSwU=
+
+Name: plugins/org.ops4j.pax.logging.pax-logging-api_1.7.2.jar
+SHA1-Digest: 6WDgh45gSmVfgZsnukJYvcSixhU=
+
+Name: artifacts.jar
+SHA1-Digest: eCFi1JcOXK5OmU18uvLew3A9n5k=
+
+Name: plugins/org.scala-ide.scala.compiler_2.10.4.v20140209-180020-VFI
+ NAL-b66a39653b.jar
+SHA1-Digest: vsTIWQ9QAOxrAqWQNV1MsBJ245g=
+
+Name: plugins/com.apprenda.sdk-libraries-bundle_0.0.10.jar
+SHA1-Digest: dIKIrkNcjYp2yEZ7SFFcvleAHL0=
+
+Name: plugins/org.apache.log4j_1.2.15.v201012070815.jar
+SHA1-Digest: xkkV85hcKmDkR0QxeJ0dTCAPBuY=
+
+Name: features/apprenda-feature_0.9.2.jar
+SHA1-Digest: SaKEemNs4NahIz1xbzFlffR6Hfg=
+
+Name: plugins/org.ops4j.pax.logging.pax-logging-service_1.7.2.jar
+SHA1-Digest: 1FiJHm41Q5rklX3hAda+631s7V4=
+
+Name: plugins/org.scala-ide.scala.library_2.10.4.v20140209-180020-VFIN
+ AL-b66a39653b.jar
+SHA1-Digest: 3tqYh9//Fxrc3oBQUFMDnYWq4ow=
+
+Name: content.jar
+SHA1-Digest: C02da2r61Pg6E/rlvquW6CHI404=
+
+Name: plugins/org.ops4j.pax.configmanager_0.2.3.jar
+SHA1-Digest: WAgWPqVdEd6jyrkskoEcyqYrdjE=
+
+Name: plugins/com.apprenda.devportal-client-bundle_0.0.10.jar
+SHA1-Digest: 2p8tgMqgqQ4ZCBXFaeuvaJFXQ0s=
+
+Name: plugins/apprenda-plugin_0.9.2.jar
+SHA1-Digest: JRPRfryywRin5t2yq5dnXjetwi4=
+

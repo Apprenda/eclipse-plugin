@@ -4,29 +4,24 @@ Created-By: 1.6.0_45 (Sun Microsystems Inc.)
 Name: plugins/org.ops4j.pax.logging.pax-logging-api_1.7.2.jar
 SHA1-Digest: UdJhP/v+5tbX6uOOzO3tB5TWG4U=
 
-Name: plugins/apprenda-plugin_0.9.0.jar
-SHA1-Digest: BjXzDq5SsHBQJKSN3UJhL0ocpbg=
-
 Name: plugins/org.scala-ide.scala.compiler_2.10.4.v20140209-180020-VFI
  NAL-b66a39653b.jar
 SHA1-Digest: Zyl03NFHRJSJrHv+FZeSxte5Abk=
 
 Name: artifacts.jar
-SHA1-Digest: Bu0SYZmDMLe3V+ihFcfJBzrS8Ag=
+SHA1-Digest: UI+BSZb5QyUoFFfGDQkUSe89Tno=
 
 Name: plugins/org.apache.log4j_1.2.15.v201012070815.jar
 SHA1-Digest: 624HF8RUjtDg5g9o3YMxlG+QSFA=
 
-Name: plugins/com.apprenda.devportal-client-bundle_0.0.8.2015051209232
- 4.jar
-SHA1-Digest: BATz2TYIOEixFS5B/9XkGx4gjB8=
+Name: plugins/com.apprenda.sdk-libraries-bundle_0.0.10.jar
+SHA1-Digest: qem/HmPu1ZrSX1hKSaw+GfjN5kI=
+
+Name: features/apprenda-feature_0.9.2.jar
+SHA1-Digest: 50nUG3Na3tHUMGeGOnIKS59YRww=
 
 Name: plugins/org.ops4j.pax.logging.pax-logging-service_1.7.2.jar
 SHA1-Digest: 1+gLcy9P25gdK7jqX5FK/aY6U9Y=
-
-Name: plugins/com.apprenda.sdk-libraries-bundle_0.0.8.20150512092326.j
- ar
-SHA1-Digest: XRerXLM5oJzIETmYIEqdRrAB7/4=
 
 Name: plugins/org.scala-ide.scala.library_2.10.4.v20140209-180020-VFIN
  AL-b66a39653b.jar
@@ -35,9 +30,12 @@ SHA1-Digest: 2y4+0gKeWgKzlBPddWaeCusBZ1I=
 Name: plugins/org.ops4j.pax.configmanager_0.2.3.jar
 SHA1-Digest: K/ivoALZrIt4lZeUQUAwFFnbHXw=
 
-Name: features/apprenda-feature_0.9.0.jar
-SHA1-Digest: CIh/3YCRZDoWwK/otUNm/i/bMOQ=
-
 Name: content.jar
-SHA1-Digest: AaGDSA2tn0MbSHRiM8RKK41m+RQ=
+SHA1-Digest: MVa1p7iD1YmjOBrhvPla2x13acs=
+
+Name: plugins/com.apprenda.devportal-client-bundle_0.0.10.jar
+SHA1-Digest: EwId3t5Hp5bBZnljhbQUUIez6Tk=
+
+Name: plugins/apprenda-plugin_0.9.2.jar
+SHA1-Digest: Nu5Gu0rqs3YYyJ3RzQ6nWcWU6Do=
 

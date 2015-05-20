@@ -1,41 +1,42 @@
 Manifest-Version: 1.0
 Created-By: 1.6.0_45 (Sun Microsystems Inc.)
 
-Name: plugins/org.ops4j.pax.logging.pax-logging-api_1.7.2.jar
-SHA1-Digest: UdJhP/v+5tbX6uOOzO3tB5TWG4U=
-
 Name: plugins/org.scala-ide.scala.compiler_2.10.4.v20140209-180020-VFI
  NAL-b66a39653b.jar
 SHA1-Digest: Zyl03NFHRJSJrHv+FZeSxte5Abk=
 
+Name: plugins/org.ops4j.pax.configmanager_0.2.3.apprenda.jar
+SHA1-Digest: wNQDSwAhUZaTR4FbO/hgKfIhNI8=
+
 Name: artifacts.jar
-SHA1-Digest: UI+BSZb5QyUoFFfGDQkUSe89Tno=
+SHA1-Digest: Tp+D/YgOMxf4vXqnQxT5XHl5QDM=
 
 Name: plugins/org.apache.log4j_1.2.15.v201012070815.jar
 SHA1-Digest: 624HF8RUjtDg5g9o3YMxlG+QSFA=
-
-Name: plugins/com.apprenda.sdk-libraries-bundle_0.0.10.jar
-SHA1-Digest: qem/HmPu1ZrSX1hKSaw+GfjN5kI=
-
-Name: features/apprenda-feature_0.9.2.jar
-SHA1-Digest: 50nUG3Na3tHUMGeGOnIKS59YRww=
-
-Name: plugins/org.ops4j.pax.logging.pax-logging-service_1.7.2.jar
-SHA1-Digest: 1+gLcy9P25gdK7jqX5FK/aY6U9Y=
 
 Name: plugins/org.scala-ide.scala.library_2.10.4.v20140209-180020-VFIN
  AL-b66a39653b.jar
 SHA1-Digest: 2y4+0gKeWgKzlBPddWaeCusBZ1I=
 
-Name: plugins/org.ops4j.pax.configmanager_0.2.3.jar
-SHA1-Digest: K/ivoALZrIt4lZeUQUAwFFnbHXw=
+Name: features/apprenda-feature_0.9.3.jar
+SHA1-Digest: R4NxEWTDUFu0+09HTvBMl+45KkM=
 
 Name: content.jar
-SHA1-Digest: MVa1p7iD1YmjOBrhvPla2x13acs=
+SHA1-Digest: 0EKbbaUmXlxQsEywd3vQuAOOQm8=
 
-Name: plugins/com.apprenda.devportal-client-bundle_0.0.10.jar
-SHA1-Digest: EwId3t5Hp5bBZnljhbQUUIez6Tk=
+Name: plugins/org.ops4j.pax.logging.pax-logging-api_1.7.2.apprenda.jar
+SHA1-Digest: mvSQOLFxd20vJPdeoociizganTs=
 
-Name: plugins/apprenda-plugin_0.9.2.jar
-SHA1-Digest: Nu5Gu0rqs3YYyJ3RzQ6nWcWU6Do=
+Name: plugins/com.apprenda.devportal-client-bundle_0.0.11.jar
+SHA1-Digest: zSzVhaBgSD0dJBOEbRF/Z7FVpzc=
+
+Name: plugins/org.ops4j.pax.logging.pax-logging-service_1.7.2.apprenda
+ .jar
+SHA1-Digest: qx3DmuCSicqyG7VptN/5t07jdPk=
+
+Name: plugins/com.apprenda.sdk-libraries-bundle_0.9.3.jar
+SHA1-Digest: LhIBjqHB2aTQkw3utzpA19XQdCE=
+
+Name: plugins/apprenda-plugin_0.9.3.jar
+SHA1-Digest: NpaBF6NGGG6HkT6poP55RkxF6hw=
 

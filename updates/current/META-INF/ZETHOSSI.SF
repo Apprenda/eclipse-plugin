@@ -1,43 +1,44 @@
 Signature-Version: 1.0
 SHA1-Digest-Manifest-Main-Attributes: SHCGxzzEaMI6zkXjfCtYUEmyHUA=
 Created-By: 1.6.0_45 (Sun Microsystems Inc.)
-SHA1-Digest-Manifest: ASBBD2x5s9wCWmup0nEoz+7BSwU=
-
-Name: plugins/org.ops4j.pax.logging.pax-logging-api_1.7.2.jar
-SHA1-Digest: 6WDgh45gSmVfgZsnukJYvcSixhU=
+SHA1-Digest-Manifest: TcNKJFc5gJx63MjqStZOnh4FoWA=
 
 Name: artifacts.jar
-SHA1-Digest: eCFi1JcOXK5OmU18uvLew3A9n5k=
+SHA1-Digest: vjJdfe2r1SGrdj0c/K98mICaSaA=
+
+Name: plugins/org.ops4j.pax.configmanager_0.2.3.apprenda.jar
+SHA1-Digest: 36wj1E/qc4/E0DfVkuw9bara93Q=
 
 Name: plugins/org.scala-ide.scala.compiler_2.10.4.v20140209-180020-VFI
  NAL-b66a39653b.jar
 SHA1-Digest: vsTIWQ9QAOxrAqWQNV1MsBJ245g=
 
-Name: plugins/com.apprenda.sdk-libraries-bundle_0.0.10.jar
-SHA1-Digest: dIKIrkNcjYp2yEZ7SFFcvleAHL0=
-
 Name: plugins/org.apache.log4j_1.2.15.v201012070815.jar
 SHA1-Digest: xkkV85hcKmDkR0QxeJ0dTCAPBuY=
-
-Name: features/apprenda-feature_0.9.2.jar
-SHA1-Digest: SaKEemNs4NahIz1xbzFlffR6Hfg=
-
-Name: plugins/org.ops4j.pax.logging.pax-logging-service_1.7.2.jar
-SHA1-Digest: 1FiJHm41Q5rklX3hAda+631s7V4=
 
 Name: plugins/org.scala-ide.scala.library_2.10.4.v20140209-180020-VFIN
  AL-b66a39653b.jar
 SHA1-Digest: 3tqYh9//Fxrc3oBQUFMDnYWq4ow=
 
+Name: features/apprenda-feature_0.9.3.jar
+SHA1-Digest: iL2P9nEma0S4fUYvjRVOWntSzNU=
+
 Name: content.jar
-SHA1-Digest: C02da2r61Pg6E/rlvquW6CHI404=
+SHA1-Digest: Jf/zA5uVVnEvE80XFLP8BnLGSzk=
 
-Name: plugins/org.ops4j.pax.configmanager_0.2.3.jar
-SHA1-Digest: WAgWPqVdEd6jyrkskoEcyqYrdjE=
+Name: plugins/com.apprenda.devportal-client-bundle_0.0.11.jar
+SHA1-Digest: 05xAiRTsUYzpje+yxz0IglAQkgM=
 
-Name: plugins/com.apprenda.devportal-client-bundle_0.0.10.jar
-SHA1-Digest: 2p8tgMqgqQ4ZCBXFaeuvaJFXQ0s=
+Name: plugins/org.ops4j.pax.logging.pax-logging-api_1.7.2.apprenda.jar
+SHA1-Digest: XxlpYHY535JaTaHNsGu+jlrNIpI=
 
-Name: plugins/apprenda-plugin_0.9.2.jar
-SHA1-Digest: JRPRfryywRin5t2yq5dnXjetwi4=
+Name: plugins/com.apprenda.sdk-libraries-bundle_0.9.3.jar
+SHA1-Digest: N1oq1RChbd+JgfVyuR8ZH0nJbRY=
+
+Name: plugins/org.ops4j.pax.logging.pax-logging-service_1.7.2.apprenda
+ .jar
+SHA1-Digest: 98e/GszDMl9//JFf1CnQUMuC3gw=
+
+Name: plugins/apprenda-plugin_0.9.3.jar
+SHA1-Digest: x7hlZ+r4I8rPRSOUnMwMxnjlwv0=
 
